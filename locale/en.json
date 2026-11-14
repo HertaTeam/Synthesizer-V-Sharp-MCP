@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Synthesizer V song writing (MCP)",
+    "description": "Writes real Synthesizer V Studio .svp projects from a melody and lyrics, reads them back, and opens them in the editor. Rendering stays a click in the editor.",
+    "detail": "docs/DETAIL.md"
+  }
+}

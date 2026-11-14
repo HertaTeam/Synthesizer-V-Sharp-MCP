@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Synthesizer V 写歌（MCP）",
+    "description": "用旋律和歌词生成真正的 Synthesizer V Studio 工程文件（.svp），可回读工程摘要，并直接在编辑器里打开。音频渲染仍需在编辑器里点击导出。",
+    "detail": "docs/DETAIL.md"
+  }
+}

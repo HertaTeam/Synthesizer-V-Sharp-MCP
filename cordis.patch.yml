@@ -1,0 +1,12 @@
+- insert:
+    - id: sv-mcp
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: sv
+        transport: stdio
+        command: 'C:\Program Files\nodejs\node.exe'
+        args:
+          - 'D:\桌面\Synthesizer V Sharp\sv-mcp\server.mjs'
+        cwd: 'D:\桌面\Synthesizer V Sharp\sv-mcp'
+        startupTimeoutMs: 20000
+        failOnStartupError: false

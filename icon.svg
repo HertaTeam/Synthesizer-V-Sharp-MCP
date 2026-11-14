@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Synthesizer V song writing">
+  <rect width="64" height="64" rx="14" fill="#14161a"/>
+  <rect x="4.5" y="4.5" width="55" height="55" rx="11" fill="none" stroke="#2b3038" stroke-width="1"/>
+  <g fill="#15e879">
+    <rect x="12" y="27" width="3.5" height="10" rx="1.6"/>
+    <rect x="19" y="21" width="3.5" height="22" rx="1.6"/>
+    <rect x="26" y="15" width="3.5" height="34" rx="1.6"/>
+    <rect x="33" y="23" width="3.5" height="18" rx="1.6"/>
+    <rect x="40" y="19" width="3.5" height="26" rx="1.6"/>
+  </g>
+  <g fill="none" stroke="#9aa3ad" stroke-width="1.6" stroke-linecap="round">
+    <circle cx="48.5" cy="45" r="4"/>
+    <path d="M52.5 45V29.5l4 1.6"/>
+  </g>
+</svg>
